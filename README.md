@@ -35,7 +35,21 @@ SpeedTrap offers a low-friction alternative focused on behavioral timing, provid
 
 ---
 
-## Example Implementation
+## Pre-Conclusion
+
+This project represents a foundational prototype of what the future of CAPTCHA technology could evolve into. 
+It demonstrates a simple yet effective approach to distinguishing humans from bots through behavioral timing rather than traditional complex puzzles. 
+As the original creator of this concept, I respectfully request proper recognition and due credit for developing this innovative idea.
+I am genuinely interested in discussing opportunities to license or sell this technology to forward-thinking companies aiming to enhance their bot-detection systems. 
+Collaborating on advancing this concept could offer significant value to the cybersecurity community and end users alike.
+
+
+For more information and future partnership please contact me at; 
+
+nikunj.anand.2011@gmail.com
+
+
+## Example Implementation and Conclusion
 
 Below is the full code snippet you can deploy immediately in an HTML compiler online. It uses standard HTML and JavaScript, requires no external libraries, and can be integrated easily into existing web pages:
 
@@ -124,13 +138,3 @@ Below is the full code snippet you can deploy immediately in an HTML compiler on
   });
 </script>
 
-This project represents a foundational prototype of what the future of CAPTCHA technology could evolve into. 
-It demonstrates a simple yet effective approach to distinguishing humans from bots through behavioral timing rather than traditional complex puzzles. 
-As the original creator of this concept, I respectfully request proper recognition and due credit for developing this innovative idea.
-I am genuinely interested in discussing opportunities to license or sell this technology to forward-thinking companies aiming to enhance their bot-detection systems. 
-Collaborating on advancing this concept could offer significant value to the cybersecurity community and end users alike.
-
-
-For more information and future partnership please contact me at; 
-
-nikunj.anand.2011@gmail.com
