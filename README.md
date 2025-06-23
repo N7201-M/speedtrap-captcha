@@ -40,6 +40,8 @@ SpeedTrap offers a low-friction alternative focused on behavioral timing, provid
 Below is the full code snippet you can deploy immediately in an HTML compiler online. It uses standard HTML and JavaScript, requires no external libraries, and can be integrated easily into existing web pages:
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+</script>
+
 ```html
 
 <p style="font-weight: bold; color: orange;">
